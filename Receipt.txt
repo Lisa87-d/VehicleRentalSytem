@@ -1,0 +1,16 @@
+
+===============================
+       RENTAL RECEIPT          
+===============================
+
+Vehicle      : VW Polo
+Duration     : 6 Days
+Pickup Date  : 18 April 2026
+Return Date  : 24 April 2026
+-------------------------------
+Base Price   : R2400.00
+Discount     : -R360.00 (15% Off)
+-------------------------------
+TOTAL DUE    : R2040.00
+===============================
+   Thank you for driving with us!  
