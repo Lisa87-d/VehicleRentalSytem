@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * @author air
  */
-public class VehicleRentalSytem {
+public class VehicleRentalSystem {
 
     public static void main(String[] args) {
         
