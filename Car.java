@@ -11,7 +11,7 @@ package com.mycompany.vehiclerentalsytem;
 class Car {
 
     private String name;
-    private double pricePerDay; // Must be double for math!
+    private double pricePerDay;
 
     public Car(String name, double pricePerDay) {
         this.name = name;
@@ -23,7 +23,7 @@ class Car {
     }
 
     public double getPricePerDay() {
-        return pricePerDay; // This returns a number, so math works!
+        return pricePerDay; 
     }
     
 }
